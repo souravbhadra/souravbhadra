@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Sourav Bhadra
-#### Geospatial Data Scientist
+#### Data Scientist
 ![Geospatial Data Scientist](https://raw.githubusercontent.com/souravbhadra/souravbhadra/main/banner_git%20-%201.png)
 
 I am passionate about applying geospatial data science, remote sensing, unmanned aerial vehicles and machine learning in answering critical issues related to agriculture, food security, nautal resources, and urban dynamics. My goal is to combine the knowledge of physical remote sensing and data-driven machine learning techniques, so there can be robust applicability or reproducibility of the model worldwide.
